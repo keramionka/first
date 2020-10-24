@@ -1,10 +1,5 @@
 first line
-<<<<<<< HEAD
 here is one
 here too
 new line
-=======
-remote line
 
-new line
->>>>>>> a6e34ee5b44eb2b4dc661d2edbb0d01ede1efd15
